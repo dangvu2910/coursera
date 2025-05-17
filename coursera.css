@@ -1,0 +1,61 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdfdfd;
+  margin: 20px;
+}
+
+#introduction,
+#mtruong,
+#hanh {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  margin-bottom: 20px;
+  
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: #4B3621;
+}
+
+header {
+  background-color: #54340a;
+  padding: 10px;
+  text-align: center;
+}
+
+nav {
+  background-color: #8B4513;
+  padding: 10px;
+}
+
+main {
+  background-color: #f2f2f2;
+  font-size: 18px;
+  padding: 15px;
+}
+
+footer {
+  background-color: #444;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+li {
+  display: inline-block;
+  width: 120px;
+  margin-right: 10px;
+  color: blue;
+}
+
+p {
+  line-height: 1.6;
+}
+
+ul, ol {
+  padding-left: 20px;
+  color: red;
+}
